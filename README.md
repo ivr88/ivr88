@@ -1,14 +1,10 @@
-### Hi there 👋
+<h1 align="center">Hi there👋, I'm Vadim Islamov</h1>
+_____________________________________________________
+_____________________________________________________
+<h3 align="center">IOS-Developer</h3>
+_____________________________________
 
-<!--
-**ivr88/ivr88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning SwiftUI
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 My pet my project available at **(https://github.com/ivr88)**
+- 🌱 I’m currently learning **SwiftUI**
+- 💬 Ask me about **Swift (UIKit, SwiftUI)**
+- 📫 How to reach me TG: **@IVR88**, E-mail: **ivr88@yandex.ru**
