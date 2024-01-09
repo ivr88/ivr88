@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I'm Vadim Islamov</h1>
 <h3 align="center">IOS-Developer</h3>
 
-- 👨‍💻 My pet my projects available at [My projects]([https://github.com/ivr88](https://github.com/ivr88?tab=repositories))
+- 👨‍💻 My pet my projects available at [My projects](https://github.com/ivr88?tab=repositories)
 
 - 📝 I think it's interesting: [Fitness App](https://github.com/ivr88/FitnessAppGit.git)
   
